@@ -1,3 +1,3 @@
 # python-project
 
-Data Analysis Project Using Python.
+Store Sales Analysis Project Using Python.
